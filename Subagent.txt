@@ -1,0 +1,4 @@
+Can you research the way to find and install mcp servers in the new google antigravity IDE
+
+
+https://antigravity.google/docs/mcp
